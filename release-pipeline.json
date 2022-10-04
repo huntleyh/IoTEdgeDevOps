@@ -419,7 +419,7 @@
                 "arguments": "",
                 "pushMultipleImages": "false",
                 "tagMultipleImages": "false",
-                "imageName": "toolboc/azure-iot-edge-device-container",
+                "imageName": "iotedgedevopshhiot.azurecr.io/azure-iot-edge-device-container",
                 "imageNamesPath": "",
                 "qualifyImageName": "true",
                 "includeSourceTags": "false",
